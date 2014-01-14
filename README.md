@@ -13,3 +13,11 @@ $ sudo npm install bower -g
 ```console
 $ bower install
 ```
+
+## Run it
+
+```console
+$ node scripts/web-server.js
+```
+
+#### Open http://localhost:8000/app/
